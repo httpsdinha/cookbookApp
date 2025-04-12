@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias_array">
+        <item>Doces</item>
+        <item>Salgados</item>
+        <item>Bebidas</item>
+    </string-array>
+</resources>
